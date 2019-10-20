@@ -1,26 +1,28 @@
 package com.company;
 
 public class House {
-    String color;
-    int Height;
+   public String color;
+   public int Height;
+public House(String color {
 
-    public String getColor() {
-        return color;
-    }
-
-    public void setColor(String color) {
-       String t = color;
-        String light;
+    public void setColor (String color){
+        this.color = color + "light";
 
     }
-
-
-
-    public int getHeight() {
-        return Height;
-    } public void setHeight(int height) {
-        Height = height*100;
+    public void setHeight ( int Height){
+        this.Height = Height * 100;
     }
 }
+
+    public String getColor(String color) {
+        return color;
+    }
+    public int House(int Height){
+            return Height;
+}
+}
+
+
+
 
 
