@@ -1,9 +1,9 @@
-package com.company;
+package House;
 
 public class House {
    public String color;
    public int Height;
-public House(String color {
+public House(String color, int Height) {
 
     public void setColor (String color){
         this.color = color + "light";
@@ -20,6 +20,7 @@ public House(String color {
     public int House(int Height){
             return Height;
 }
+
 }
 
 

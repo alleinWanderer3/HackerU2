@@ -1,4 +1,4 @@
-package com.company;
+package Run;
 
 public class Run {
         int NumberOfRunners;

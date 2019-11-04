@@ -1,4 +1,6 @@
-package com.company;
+package Run;
+
+import com.company.Run;
 
 public class Cat {
     String color;
